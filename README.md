@@ -44,7 +44,10 @@ Machine-Learning/
 │
 ├── 📁 Projects/
 │   └── ...
-│
+|
+├── 📁 Notes/
+│   └── ...
+|
 └── README.md
 ```
 
@@ -95,6 +98,11 @@ Depending on the project, implementations may involve:
 - Result analysis and visualization.
 
 *Projects will be added as the course progresses.*
+
+
+## 📝 4. Notes
+
+This section contains the notes i made for myself over the materials of the course. Spoken in my own language and understanding.
 
 ---
 
